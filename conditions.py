@@ -1,5 +1,5 @@
 # CS104
-# First name Last name
+# Collin Gavin
 # conditions.py
 
 # Prompting the user for input
